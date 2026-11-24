@@ -1,0 +1,14 @@
+
+# Java compiled files
+*.class
+
+# Runtime notification data
+notifications.txt
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
